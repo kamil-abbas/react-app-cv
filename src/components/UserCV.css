@@ -1,0 +1,21 @@
+.user-cv{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.user-cv *{
+    padding: 36px;
+}
+
+.personal-info{
+    background-color: aqua;
+}
+
+.experience{
+    background-color: darkorchid;
+}
+
+.contacts{
+    background-color: greenyellow;
+}
